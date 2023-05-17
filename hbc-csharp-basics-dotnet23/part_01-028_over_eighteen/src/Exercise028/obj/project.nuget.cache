@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "huXj8aPrftrxZpQzgSUa+hHQhyBwcXuQArLRXSOO4UvzSssTSkV1nQqMvaIh6UZHcc58LBkm7Bnqk5+qGY+RAw==",
+  "success": true,
+  "projectFilePath": "/Users/s2300306/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet23/part_01-028_over_eighteen/src/Exercise028/Exercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2300306/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/s2300306/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/s2300306/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.15/microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

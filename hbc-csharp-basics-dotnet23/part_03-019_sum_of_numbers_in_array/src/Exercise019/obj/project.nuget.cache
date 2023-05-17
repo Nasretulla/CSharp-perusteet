@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBxJ6tq+DuVkNydRjfLZpQ13GCXbCdMqNF5yjixzcgA6l59hHb8IJZdfhkPdXWv6nfPJmsavcM1IJKLsHOmFsA==",
+  "success": true,
+  "projectFilePath": "/Users/s2300306/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet23/part_03-019_sum_of_numbers_in_array/src/Exercise019/Exercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2300306/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/s2300306/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/s2300306/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.15/microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
